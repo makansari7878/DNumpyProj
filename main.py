@@ -1,6 +1,15 @@
 import numpy as np
 
 
+arr = np.array([[2,3,4,5,6], [3,4,55,66,77]])
+print(arr)
+print(type(arr))
+
+print(arr.ndim)
+print(arr.shape)
+print(arr.size)
+
+
 # THIS IS FOR A DEMO
 # creating a copy
 # arr = np.array([2,3,4,5,6])
