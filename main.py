@@ -1,5 +1,7 @@
 import numpy as np
 
+
+# THIS IS FOR A DEMO
 # creating a copy
 # arr = np.array([2,3,4,5,6])
 #
